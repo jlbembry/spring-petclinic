@@ -30,4 +30,8 @@ repository.
 
    ![Screen Capture #6](images/travisCI-maven-exclude.jpg)  
    
+- Githib repository readme.md showing failed status
+
+   ![Screen Capture #7](images/readme-fail.jpg)  
+   
 
