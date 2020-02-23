@@ -7,11 +7,17 @@ Jabri Bembry - ID 1881423
 -  Github account showing that is has been forked from the depaulcdm/springpetclinic
 repository.
 
- ![Screen Capture #1](images/spring-petclinic-fork.jpg)
+   ![Screen Capture #1](images/spring-petclinic-fork.jpg)
 
 - Travis CI dashboard displaying successful first build
 
-![Screen Capture #2](images/travisCI-dashboard.jpg)
+  ![Screen Capture #2](images/travisCI-dashboard.jpg)
 
 
+- POM file showing groupID changed to edu.depaul.cdm.se441
 
+  ![Screen Capture #3](images/pom-groupID.jpg)
+
+-Travis CI dashboard build after group ID change
+
+  ![Screen Capture #3](images/travisCI-groupID-build.jpg)
