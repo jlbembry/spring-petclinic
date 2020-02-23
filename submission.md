@@ -18,6 +18,16 @@ repository.
 
   ![Screen Capture #3](images/pom-groupID.jpg)
 
--Travis CI dashboard build after group ID change
+- Travis CI dashboard build after group ID change
 
-  ![Screen Capture #3](images/travisCI-groupID-build.jpg)
+   ![Screen Capture #4](images/travisCI-groupID-build.jpg)
+
+- POM file showing showing coordinates that have been commented out
+
+   ![Screen Capture #5](images/pom-maven-exclude.jpg)
+   
+- Travis CI dashboard failed build after modification
+
+   ![Screen Capture #6](images/travisCI-maven-exclude.jpg)  
+   
+
